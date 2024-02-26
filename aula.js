@@ -13,5 +13,5 @@ btn.style.transition = "all 0.02s ease";
 });
 
 function tanks() {
-alert("Obrigado!! então vamos comer um sushizinho ❤❤😍");
+alert("Obrigado!! A partir de hoje você é minha estrela ❤❤✨");
 }    
