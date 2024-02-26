@@ -13,5 +13,5 @@ btn.style.transition = "all 0.02s ease";
 });
 
 function tanks() {
-alert("Obrigado!! A partir de hoje você é minha estrela ❤❤✨");
+alert("Obrigado!! A partir de agora você é minha estrela ❤❤✨");
 }    
